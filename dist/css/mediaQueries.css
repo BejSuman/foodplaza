@@ -1,3 +1,9 @@
+@media screen and (max-width: 727px) and (min-width: 576px) {
+  .navUl {
+    display: none;
+  }
+}
+
 @media only screen and (max-width: 575px) {
     nav ul li {
       text-align: center;
